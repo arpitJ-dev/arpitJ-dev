@@ -6,6 +6,7 @@
 
 Applied AI/ML • Backend Engineering • Cloud Systems • Android Product Engineering
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-arpit--jaiswal.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://arpit-jaiswal.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-arpitJ--dev-181717?style=for-the-badge&logo=github)](https://github.com/arpitJ-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arpitj16-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arpitj16)
 [![Email](https://img.shields.io/badge/Email-arpit.jais16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpit.jais16@gmail.com)
@@ -128,6 +129,7 @@ Custom multilingual conversational LLM training pipeline.
 
 ## Connect
 
+- Portfolio: [arpit-jaiswal.vercel.app](https://arpit-jaiswal.vercel.app)
 - GitHub: [arpitJ-dev](https://github.com/arpitJ-dev)
 - LinkedIn: [linkedin.com/in/arpitj16](https://www.linkedin.com/in/arpitj16)
 - Email: [arpit.jais16@gmail.com](mailto:arpit.jais16@gmail.com)

@@ -132,4 +132,4 @@ Custom multilingual conversational LLM training pipeline.
 - Portfolio: [arpit-jaiswal.vercel.app](https://arpit-jaiswal.vercel.app)
 - GitHub: [arpitJ-dev](https://github.com/arpitJ-dev)
 - LinkedIn: [linkedin.com/in/arpitj16](https://www.linkedin.com/in/arpitj16)
-- Email: [arpit.jais16@gmail.com](mailto:arpit.jais16@gmail.com)
+- Email: [arpitjaiswal.dev@gmail.com](mailto:arpitjaiswal.dev@gmail.com)
